@@ -237,3 +237,5 @@ ModelManifest.xml
 
 # Paket dependency manager
 .paket/paket.exe
+
+/ACT_DiscordTriggers/FodyWeavers.xsd
